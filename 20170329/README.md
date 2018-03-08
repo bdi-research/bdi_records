@@ -1,6 +1,6 @@
 # プログラム
 
-https://eventdots.jp/event/615017
+https://techplay.jp/event/615017
 
 # 参加者一覧 (登録54+24=78名)
 
