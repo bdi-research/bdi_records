@@ -1,0 +1,74 @@
+日付：2019年3月20日
+場所：慶應大学日吉キャンパス D307
+http://www.hc.keio.ac.jp/ja/facilities/schoolhouse/D307.html
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+プログラム案：時間は質疑込 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+0955-1000 
+話者：鬼塚 真＠阪大：Opening Remarks
+
+1000-1040 
+話者：鬼塚 真＠阪大
+題目：CIDR報告
+概要：The biennial Conference on Innovative Data Systems Research (CIDR) の報告を行う。
+
+1040-1120 
+話者：斉藤 和広＠KDDI研究所
+題目：CMU留学記
+概要：1年間のCMUでの留学を経て、DBプロジェクトPelotonやNVM評価で得た経験を紹介する。 
+
+1120-1200
+話者：服部 雅一＠東芝デジタルソリューションズ
+題目：ビッグデータ/IoT データベース GridDB
+概要：GridDBは、ビッグデータやIoT向けにNoSQLをベースとしたDBです。今回、IoTに対してNoSQLを適用する時の課題と、その課題を解決するために備えた機能やメカニズムについてご紹介します。
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+1200-1315　Break
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+1315-1405 
+話者：五島 康文＠富士通
+題目：不揮発メモリ(NVDIMM)とLinuxの対応動向について
+概要：RAMの代わりに不揮発のメモリが使われるDIMM(NVDIMM)について、 Linuxの対応や現在の動向をご紹介します。
+      - NVDIMMのLinuxでのアクセス方法や使い方、
+      - ライブラリ
+      - RAS
+      - 現在の課題
+      など"
+
+1405-1435 
+話者：佐野 伸太郎＠東芝メモリ
+題目：脳神経科学におけるストレージ応用
+概要：脳神経科学では、大容量データ(10-100 TB)の高速アクセス(10 GB/s)が要求されている。発表では、実際のアプリケーションがどのようにストレージを利用するかを解説する。また、脳神経科学向けに試作したストレージシステムについて紹介する。
+
+1435-1515 
+話者：渡辺 聡＠日立研究所
+題目：Apache DrillとFPGAアクセラレータを統合するシステムアーキテクチャの提案（ICDE'19採録内容の発展版）	
+概要：Field Programmable Gate Array（FPGA）を用いたデータベース（DB）のアクセラレータシステムは，アクセラレータを適用しない場合と比較して，処理性能と消費電力を大幅に向上する可能性を有している．本公演では，オープンソースDBであるApache DrillとFPGAアクセラレータの統合方法に関する研究成果を紹介する．
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+1515-1545　Break
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+1545-1605 
+話者：田辺 敬之＠筑波大M1
+題目：近代的並行性制御の評価	
+概要：近年多数の並行性制御法が提案されてきた．近年 MVCC に対する網羅的な評価を行った研究があったが，対象プロトコルは MVTO, MVOCC, MV2PL, SI+SSN であり，シングルバージョンプロトコルを考慮していない．そこで我々はシングルバージョンを含めた 7 プロトコル (SI, SS2PL, Silo, ERMIA, Cicada, MOCC, TicToc) を再設計・実装を行い，第三者視点による包括的かつ公平な評価と性能検証を行う．
+
+1605-1645 
+話者：早川 侑太朗＠慶大SFC M2
+題目：Prism: A Scalable Proxy Architecture for Datacenter Networks	
+概要：In datacenters, workload throughput is often constrained by the link bandwidth of a proxy server, despite the much higher aggregate bandwidth of backend servers and of the network core. It can also be constrained by high CPU utilization of a proxy that encrypts or decrypts data with TLS protocol in addition to copying data, this despite the spare CPU cycles of backend servers. We introduce Prism, a system that addresses this problem by taking the best aspects of L4 and L7 load balancers, as well as leveraging modern programmable network switches. We have designed a novel TCP connection hand-off protocol with support for TLS, and a programming framework to build applications on the participating servers. In our testbed consisting of 6 dual-core servers, in the absence of TLS where the server attachment bandwidth to the network core becomes a bottleneck, Prism achieves throughput up to 4.4 times higher than traditional proxy-based systems. With TLS where the server CPUs become a bottleneck, Prism achieves throughput up to 5.3 times higher than the same baseline.
+
+1645-1725 
+話者：徳差 雄太＠慶大理工 D3
+題目：The Case For In-Network Computing On Demand (EuroSys'19採録内容)	
+概要：FPGAやASICによるネットワークベースのアクセラレーション(in-network computing)は、これまで高い性能と電力効率を改善してきた。しかし、ネットワークオペレータの視点から、FPGAやASICの投入はその性能が消費電力等の運用コストを上回る必要がある。本発表では、in-network computingのアプリケーション事例の電力解析を行い、ソフトウェアシステムとハードウェアシステムにおける電力とスループットのトレードオフを解説する。さらに、変化するワークロードに応じて、ソフトウェアとハードウェアを動的に切り替えるin-network computing on-demandを導入する。アプリケーションの配置をソフトウェアとハードウェアの間で動的に変更することで、データセンタにおける性能及び電力効率の両方を最適化することができる。
+
+1725-1755 非発表者は1分程度で自己紹介
+1755-1800 鬼塚 真＠阪大：Closing Remarks 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+1830- 懇親会（希望者のみ）
+
