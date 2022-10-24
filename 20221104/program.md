@@ -1,9 +1,8 @@
-# BDI (Big Data Infrastructure) workshop  
+# 15th BDI (Big Data Infrastructure) workshop  
 Date: November 4th (Friday)- 5th (Saturday), 2022  
 Time:  November 4th (Friday) 9:00am - 18:00pm (JST)  
        November 5th (Saturday) 9:00am - 11:00pm (JST)  
-Venue: B101 Building B, Graduate School of Information Science and Technology, Osaka University [(map)](https://www.ist.osaka-u.ac.jp/japanese/access/suita-campus.html)  
-Zoom: https://us06web.zoom.us/j/81561936126?pwd=cFBiNU1WTmNJZXB4Zm5sOVpod2ZBQT09  
+Venue: B101 Building B, Graduate School of Information Science and Technology, Osaka University [(map)](https://www.ist.osaka-u.ac.jp/japanese/access/suita-campus.html)    
 Note: BDI workshop is supported by Special Interest Groups on "Database System", Information Processing Society of Japan (IPSJ). https://www.ipsj-dbs.org/support/  
 
 ## Day1: November 4th (Friday)
@@ -12,7 +11,7 @@ Note: BDI workshop is supported by Special Interest Groups on "Database System",
 
 9:10-10:10 Keynote talk
   1. Query Optimization and Processing: Trends and Directions, 
-  C Mohan (Distinguished Visiting Professor at Tsinghua University in China, Visiting Researcher at Google)
+  [C Mohan](https://en.wikipedia.org/wiki/C._Mohan) (Distinguished Visiting Professor at Tsinghua University in China, Visiting Researcher at Google)
 
 10:10-10:30 break
 
