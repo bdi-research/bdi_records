@@ -30,7 +30,7 @@ lunch 12:30-13:30
 Jun Nemoto (Scalar, Inc.)
   2. Scalar DL: Scalable and Practical Byzantine Fault Detection for Transactional Database Systems, 
 Hiroyuki Yamada (Scalar, Inc.)
-  3. Yahoo Japan's Research to Enhance its Data Platform, 
+  3. (remote) Yahoo Japan's Research to Enhance its Data Platform, 
 Shohei Matsuura (Yahoo Japan Corporation)
 
 break 15:30-15:50
@@ -40,7 +40,7 @@ break 15:30-15:50
 Hideyuki Kawashima (Keio University)
   2. (short talk) Removing Performance Bottleneck of Timestamp Allocation in Two-Phase Locking based Protocols, 
 Tatsuhiro Nakamori (Keio University)
-  3. (short talk) Transactional Transform Library for ROS, 
+  3. (short talk, remote) Transactional Transform Library for ROS, 
 Yushi Ogiwara (Keio University)
   4. Deep Reinforcement Learning-based Spatial Data Partitioning, 
 Yuya Sasaki (Osaka University)
