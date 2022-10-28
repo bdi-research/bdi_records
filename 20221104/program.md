@@ -9,14 +9,16 @@ Note: BDI workshop is supported by Special Interest Groups on "Database System",
 
 9:00-9:10 Opening
 
-9:10-10:10 Keynote talk
+9:10-10:10 Keynote talk  
+Chair: Makoto Onizuka (Osaka University)
   1. Query Optimization and Processing: Trends and Directions, 
   [C Mohan](https://en.wikipedia.org/wiki/C._Mohan) (Distinguished Visiting Professor at Tsinghua University in China, Visiting Researcher at Google)  
   Abstract: Query optimization and processing (QOP) have been a dominant component of relational database management systems ever since such systems emerged in the research and commercial space more than four decades ago. Technologies related to QOP have received widespread attention and have evolved significantly since the days of IBM Research’s System R, the project which gave birth to the concept of cost-based query optimization. Having worked on various database management topics at the birthplace of the relational model and the SQL language, until my retirement 2 years ago as an IBM Fellow at IBM Research in Silicon Valley, I have observed at close quarters a great deal of work in QOP. In this talk, I will give a broad overview of QOP’s evolution. I will discuss not only research trends but also trends in the commercial world. Work done in various organizations across the world will be covered.
 
 10:10-10:30 break
 
-10:30-12:30 Session
+10:30-12:30 Session  
+Chair: Hideyuki Kawashima (Keio University)
   1. A Streaming Algorithm for Epidemiological Data Streams, 
   Tasuku Kimura (Osaka University)
   2. (remote) Ultraverse: Efficient Retroactive Operations for Attack Recovery in Database Systems and Web Frameworks, 
@@ -26,7 +28,8 @@ Note: BDI workshop is supported by Special Interest Groups on "Database System",
 
 lunch 12:30-13:30
 
-13:30-15:30 Session
+13:30-15:30 Session  
+Chair: Yoshiharu Ishikawa (Nagoya University)
   1. Oze: Decentralized Graph-based Concurrency Control for Real-world Long Transactions on BoM Benchmark, 
 Jun Nemoto (Scalar, Inc.)
   2. Scalar DL: Scalable and Practical Byzantine Fault Detection for Transactional Database Systems, 
@@ -36,7 +39,8 @@ Shohei Matsuura (Yahoo Japan Corporation)
 
 break 15:30-15:50
 
-15:50-17:50 Session
+15:50-17:50 Session  
+Chair: Hiroyuki Yamada (Scalar, Inc.)
   1. An analysis of concurrency control protocols for in-memory databases with CCBench, 
 Hideyuki Kawashima (Keio University)
   2. (short talk) Removing Performance Bottleneck of Timestamp Allocation in Two-Phase Locking based Protocols, 
