@@ -12,6 +12,7 @@ Note: BDI workshop is supported by Special Interest Groups on "Database System",
 9:10-10:10 Keynote talk
   1. Query Optimization and Processing: Trends and Directions, 
   [C Mohan](https://en.wikipedia.org/wiki/C._Mohan) (Distinguished Visiting Professor at Tsinghua University in China, Visiting Researcher at Google)
+  Abstract: Query optimization and processing (QOP) have been a dominant component of relational database management systems ever since such systems emerged in the research and commercial space more than four decades ago. Technologies related to QOP have received widespread attention and have evolved significantly since the days of IBM Research’s System R, the project which gave birth to the concept of cost-based query optimization. Having worked on various database management topics at the birthplace of the relational model and the SQL language, until my retirement 2 years ago as an IBM Fellow at IBM Research in Silicon Valley, I have observed at close quarters a great deal of work in QOP. In this talk, I will give a broad overview of QOP’s evolution. I will discuss not only research trends but also trends in the commercial world. Work done in various organizations across the world will be covered.
 
 10:10-10:30 break
 
