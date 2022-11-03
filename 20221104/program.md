@@ -60,6 +60,6 @@ Yuya Sasaki (Osaka University)
 
 9:00-9:10 Opening
 
-9:10-10:50 Panel discussion: Future directions of database research
+9:10-10:50 Panel discussion (in-person only): Future directions of database research
 
 10:50-11:00 Closing
