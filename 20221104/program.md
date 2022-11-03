@@ -45,8 +45,8 @@ Chair: Hiroyuki Yamada (Scalar, Inc.)
 Hideyuki Kawashima (Keio University)
   2. (short talk) Removing Performance Bottleneck of Timestamp Allocation in Two-Phase Locking based Protocols, 
 Tatsuhiro Nakamori (Keio University)
-  3. (short talk, remote) Transactional Transform Library for ROS, 
-Yushi Ogiwara (Keio University)
+  3. ~~(short talk, remote) Transactional Transform Library for ROS, 
+Yushi Ogiwara (Keio University)~~
   4. Deep Reinforcement Learning-based Spatial Data Partitioning, 
 Yuya Sasaki (Osaka University)
 
